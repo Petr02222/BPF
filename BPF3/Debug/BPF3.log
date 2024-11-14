@@ -1,0 +1,7 @@
+﻿  BPF3.cpp
+C:\Users\petrs\Desktop\Petro\BPF3\BPF3.cpp(82,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\petrs\Desktop\Petro\BPF3\BPF3.cpp(86,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\petrs\Desktop\Petro\BPF3\BPF3.cpp(98,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\petrs\Desktop\Petro\BPF3\BPF3.cpp(106,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\petrs\Desktop\Petro\BPF3\BPF3.cpp(111,23): warning C4018: <: несоответствие типов со знаком и без знака
+  BPF3.vcxproj -> C:\Users\petrs\Desktop\Petro\BPF3\Debug\BPF3.exe
